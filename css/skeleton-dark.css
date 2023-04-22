@@ -64,8 +64,9 @@
   }
 }
 img.test {
-    width: 100%;
-    height: auto;
+  width: 600px;
+  height: 139px;
+  object-fit: scale-down;
 }
 
 /* For devices larger than 550px */
